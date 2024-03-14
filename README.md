@@ -1,4 +1,4 @@
-😍 Project Title: Trie-Based Search Engine Implementation in C++
+ Project Title: Trie-Based Search Engine Implementation in C++
 
 💥Description:
 Embark on a journey into the world of efficient text search with our C++ project— a robust search engine powered by the Trie data structure. Tries are tree-like structures that excel in 
